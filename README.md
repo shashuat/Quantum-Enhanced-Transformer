@@ -130,10 +130,6 @@ The evaluation script provides:
 - Confusion matrix visualization
 - Detailed classification report
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - The classical transformer implementation is based on the [Attention is All You Need](https://arxiv.org/abs/1706.03762) paper.
@@ -154,3 +150,8 @@ If you use this code in your research, please cite:
   howpublished = {\url{https://github.com/shashuat/quantum-enhanced-transformer}}
 }
 ```
+
+
+## License
+
+This project is licensed under the [Apache License](https://www.apache.org/licenses/LICENSE-2.0) - see the LICENSE file for details.
